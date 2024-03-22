@@ -9,10 +9,6 @@ type Props = {
     img: string
 }
 
-
-
-
-
 export default function CardPreview({name, date, genre, img}: Props) {
     return(
         <Conteiner>
